@@ -5,7 +5,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Fadzar Surya Wijaya|312310451|TI.23.A.5|Basis Data|
+|Dhiyaulhaq Al Maududi|312310508|TI.23.A.5|Basis Data|
 
 # TABEL
 
